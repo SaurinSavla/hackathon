@@ -20,6 +20,8 @@ Bridget Vincent @BridgetSquidget, Arielle Rothman, Saurin Rajesh Savla
     - general repository links
         - https://idr.openmicroscopy.org/
         - https://beta.bioimagearchive.org/bioimage-archive/
+        - https://openorganelle.janelia.org/
+        - https://www.ebi.ac.uk/empiar/
     - CEM500K, a large-scale heterogeneous unlabeled cellular electron microscopy image dataset for deep learning: https://elifesciences.org/articles/65894
     - jellyfish FLIM - waiting to hear back if this is possible with the digital twin system but it's a dataset I have lying around
         - Bridget's google drive 
