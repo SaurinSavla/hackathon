@@ -1,7 +1,7 @@
 # hackathon
 
 ## Team
-Bridget Vincent, Arielle Rothman, Saurin Rajesh Savla
+Bridget Vincent @BridgetSquidget, Arielle Rothman, Saurin Rajesh Savla
 
 ## Notes and Brainstorming
 - General interests
