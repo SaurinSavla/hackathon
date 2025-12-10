@@ -1,9 +1,9 @@
 # hackathon
 
 ## Team
-Bridget Vincent @BridgetSquidget, Ph.D. candidate Eco, evo, marine bio
-Arielle Rothman, M.S. Bio(?) (defending in early dec, woohoo!!!)
-Saurin Rajesh Savla, M.S. Comp Sci student
+- Bridget Vincent @BridgetSquidget, Ph.D. candidate Eco, evo, marine bio
+- Arielle Rothman, M.S. Bio(?) (defending in early dec, woohoo!!!)
+- Saurin Rajesh Savla, M.S. Comp Sci student
 
 ## Notes and Brainstorming
 - What we're looking for in teammates
