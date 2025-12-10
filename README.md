@@ -1,9 +1,9 @@
 # hackathon
 
-#Team
+## Team
 Bridget Vincent, Arielle Rothman, Saurin Rajesh Savla
 
-#Notes and Brainstorming
+## Notes and Brainstorming
 - General interests
   - complex trait morphology
       - eyes
