@@ -1,4 +1,4 @@
-# hackathon
+# Bio STEMGPT, part of the Mic-Hackathon
 
 ## Team
 - Bridget Vincent @BridgetSquidget, Ph.D. candidate Eco, evo, marine bio, UC Santa Barbara
