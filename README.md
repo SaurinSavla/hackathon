@@ -14,6 +14,36 @@ This project aims to create a chatbot to assist biologists in segmenting and exp
 
 ## Usage
 
+### Create and activate Virtual Environment
+**Windows:**
+```
+python -m venv venv
+venv\Scripts\activate
+```
+**macOS/ Linux:**
+```
+python3 -m venv venv
+source venv/bin/activate
+```
+
+### Install and Load the Ollama Model
+
+Pull the required instruction tuned model:
+
+```
+ollama pull qwen2.5:3b-instruct
+```
+
+### Install required Python dependencies
+```
+pip install -r requirements.txt
+```
+
+### Run Flask app
+```
+python app.py
+```
+
 ## Best Practices
 
 ## Training Data
